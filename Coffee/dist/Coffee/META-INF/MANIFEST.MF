@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_171-b11 (Oracle Corporation)
+Class-Path: lib/AbsoluteLayout.jar lib/jcalendar-1.4.jar lib/mysql-con
+ nector-java-5.1.23-bin.jar lib/JTattoo-1.6.10.jar lib/prompt%20(1).ja
+ r lib/substance.jar lib/xswingx.jar lib/commons-beanutils-1.9.3.jar l
+ ib/commons-collections-3.2.1-1.0.0.jar lib/commons-digester-2.1.jar l
+ ib/commons-logging-1.2.jar lib/groovy-2.5.5.jar lib/itext-pdfa-5.4.0.
+ jar lib/itextpdf-5.1.0.jar lib/jasperreports-6.6.0.jar lib/jasperrepo
+ rts-fonts-6.6.0.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: GUI.splashs
+
